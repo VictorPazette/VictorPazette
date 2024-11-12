@@ -7,8 +7,6 @@
 
 🧬 Característica: Gosto de adquirir novos conhecimentos. Procuro estar em constante evolução.
 
-⚖️ Apaixonado por tecnologia, mas amo a natureza.
-
 🌎 Um sonho: Fazer a progamação me ajudar a conquistar meus outros sonhos.
 
 ⚡ Fato curioso: Sou boardgamer/gamer nas horas vagas.
