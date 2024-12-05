@@ -1,21 +1,20 @@
 
 # 👋🏻 Hello world, me chamo Victor Pazette
 
-🌱 Atualmente estou aprendendo: Desenvolvimento Fron-end.
+🌱 Atualmente estou aprendendo: Desenvolvimento Web/Front-end.
 
 📚 Onde estudo: Autoditada estudando por meio de plataformas digitais.
 
-🧬 Característica: Gosto de adquirir novos conhecimentos. Procuro estar em constante evolução.
+🧬 Característica: Gosto de buscar novos conhecimentos. Procuro estar em constante evolução.
 
 🌎 Um sonho: Fazer a progamação me ajudar a conquistar meus outros sonhos.
 
-⚡ Fato curioso: Sou boardgamer/gamer nas horas vagas.
+⚡ Fato curioso: Sou boardgamer/gamer nas horas vagas. Apaixonado por tecnologia em geral.
 
 
 
 ### Conecte-se comigo
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VictorPazette)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:victorpazette@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/victor-pazette-50909959/)
 
@@ -40,19 +39,3 @@
 
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
 [![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=digitalinnovationone&repo=roadmaps&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/digitalinnovationone/roadmaps)
-
-
-<!--
-**VictorPazette/VictorPazette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
